@@ -2,6 +2,8 @@
 
 Santa and the elves need our help again. [Advent of Code](https://adventofcode.com/) is a Christmas advent calendar of daily puzzles that can be solved by writing code.
 
+Blog post: [Python prep for Advent of Code 2022](https://hamatti.org/posts/python-prep-for-advent-of-code-2022/)
+
 ## Results
 
 - Day 1
