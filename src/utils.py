@@ -1,4 +1,6 @@
 import os
+from collections.abc import Iterable
+
 
 
 def read_input(day, transformer=str, example=False):
@@ -41,3 +43,9 @@ def read_multisection_input(day, transformers, example=False):
             return output
     except FileNotFoundError as e:
         print(e)
+        
+def flatten(x):
+    if isinstance(x, Iterable):
+        return [a for i in x for a in flatten(i)]
+    else:
+        return [x]
