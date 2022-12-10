@@ -15,6 +15,7 @@ Blog post: [Python prep for Advent of Code 2022](https://hamatti.org/posts/pytho
 - [Day 7](src/day_7.ipynb): ⭐️⭐️
 - [Day 8](src/day_8.ipynb): ⭐️⭐️
 - [Day 9](src/day_9.ipynb): ⭐️⭐️
+- [Day 10](src/day_10.ipynb): ⭐️⭐️
 
 ## Jupyter Notebook
 
