@@ -6,6 +6,8 @@ Blog post: [Python prep for Advent of Code 2022](https://hamatti.org/posts/pytho
 
 ## Results
 
+_If you're on mobile, you can find these in HTML form at [hamatti.org/adventofcode/2022](https://hamatti.org/adventofcode/2022)_
+
 - [Day 1](src/day_1.ipynb): ⭐️⭐️
 - [Day 2](src/day_2.ipynb): ⭐️⭐️
 - [Day 3](src/day_3.ipynb): ⭐️⭐️
