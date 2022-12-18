@@ -23,6 +23,10 @@ _If you're on mobile, you can find these in HTML form at [hamatti.org/adventofco
 - [Day 13](src/day_13.ipynb): ⭐️⭐️
 - [Day 14](src/day_14.ipynb): ⭐️⭐️
 - [Day 15](src/day_15.ipynb): ⭐️⭐️
+- Day 16: (not solved)
+- [Day 17](src/day_17.ipynb): ⭐️
+- [Day 18](src/day_18.ipynb): ⭐️⭐️
+
 
 ## Jupyter Notebook
 
