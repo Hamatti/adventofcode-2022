@@ -26,7 +26,8 @@ _If you're on mobile, you can find these in HTML form at [hamatti.org/adventofco
 - Day 16: (not solved)
 - [Day 17](src/day_17.ipynb): ⭐️
 - [Day 18](src/day_18.ipynb): ⭐️⭐️
-
+- Day 19: (not solved)
+- [Day 20](src/day_20.ipynb): ⭐️⭐️
 
 ## Jupyter Notebook
 
